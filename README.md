@@ -313,6 +313,6 @@ selects different delivery options, so the merchant can update the delivery char
 
 This project is licensed under *Apache 2.0*.
 
-This project is currently maintained by [miguelverdasca](https://github.com/miguelverdasca.com/).
+This project is currently maintained by [miguelverdasca](https://github.com/miguelverdasca).
 
-It is originally the work of [miguelverdasca](https://github.com/miguelverdasca.com/). It is an alteration of an older project originally started by [Sam Kelleher](https://samkelleher.com/)
+It is originally the work of [miguelverdasca](https://github.com/miguelverdasca). It is an alteration of an older project originally started by [Sam Kelleher](https://samkelleher.com/)
